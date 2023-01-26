@@ -12,6 +12,8 @@ public class Test {
 		student.setAddress("Pune");
 
 		System.out.println("Student Details: + student");
+		
+	        System.out.println("Thank you");
 
 	}
 
